@@ -22,6 +22,8 @@ Original site:  http://www.autoelectric.cn/en/tl866_main.html
 
 ## Youtube Vids
 
+Burning the Arduino Uno Bootloader Using TL866II PLUS: https://www.youtube.com/watch?v=JsiRUEY7ci8&ab_channel=SarawutKhant
+
 Video search topic: https://www.youtube.com/results?search_query=TL866II+Programmer
 
 USE: https://www.youtube.com/watch?v=7zOklMy_zw0&ab_channel=xoftc
