@@ -1,4 +1,4 @@
-# eprom
+# Eric is keeping all his eeprom programming stuff here since he keeps losing it. 
 
 <p align="center">
 <b>Erics eprom stuffz<br>
