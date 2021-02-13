@@ -10,7 +10,7 @@
 Support this project and become a patron on <a href="https://www.patreon.com/EricWilliam">Patreon</a>.<br>
 Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
-
+<img src="https://github.com/MKme/raspberrypi/blob/main/Pico/Reference%20Materials/pinout.PNG" width="700"/>
 ## Programmer I have
 
 https://www.ebay.ca/itm/XGecu-TL866II-Programmer-PLUS-for-SPI-Flash-NAND-EPROM-MCU-AVR-13-adapter-clip/192725987183?hash=item2cdf5d2f6f:g:RLEAAOSwqR5eO9XD
