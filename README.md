@@ -28,6 +28,8 @@ USE: https://www.youtube.com/watch?v=7zOklMy_zw0&ab_channel=xoftc
 
 Review: https://www.youtube.com/watch?v=AeZDlz2F8GI&ab_channel=TechTangents
 
+Copy bad  NAND flash chip https://www.youtube.com/watch?v=Gd7rAUuIPME&ab_channel=JonnyFix 
+
 ## Devices the TL86Ii Supports: 
 
 http://www.autoelectric.cn/MiniPro/TL866II_List.txt
