@@ -66,3 +66,7 @@ http://ebay.us/UDr9NI
 
 - Example of use https://www.youtube.com/watch?v=RGr66P08zHE&ab_channel=Mr1996steffen
 
+http://www.dwdvb.com/ch341a-usb-mini-programmer-latest-software-download/#:~:text=This%20CH341%20Mini%20programmer%20can%20program%20the%20following:,IC%20(25%20Series)%208%20Set-top%20Boxes%20(25%20Series)
+
+https://www.instructables.com/CH341A-Programmer/
+
