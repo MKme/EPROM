@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 228.27795 444.87933"
+   xml:space="preserve"
+   sodipodi:docname="Bus_Pirate_3.6_Case.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="228.27795"
+   height="444.87933"><metadata
+   id="metadata71"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs69" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview67"
+   showgrid="false"
+   inkscape:zoom="1.3244222"
+   inkscape:cx="405.29349"
+   inkscape:cy="106.53444"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:12px;}
+	.st4{fill:#FFFFFF;stroke:#FF32D9;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+</style>
+
+
+
+
+<g
+   id="BottomPanel"
+   style="stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   transform="translate(-3.5110236,-2.7110236)">
+	<path
+   class="st0"
+   d="M 3.7,117.1 V 14.9 c 0,-6.6 5.4,-12 12,-12 h 163.1 c 6.6,0 12,5.4 12,12 V 117 c 0,6.6 -5.4,12 -12,12 H 15.7 c -6.6,0.1 -12,-5.3 -12,-11.9 z"
+   id="path32"
+   style="fill:none;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   inkscape:connector-curvature="0" />
+	
+		<rect
+   x="93.699997"
+   y="3.4000001"
+   transform="rotate(90,97.5,23.6547)"
+   class="st5"
+   width="7.6999998"
+   height="40.5"
+   id="rect34"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="170.3"
+   cy="107.2"
+   r="5"
+   id="circle36"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="170.3"
+   cy="24.799999"
+   r="5"
+   id="circle38"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="24.6"
+   cy="24.799999"
+   r="5"
+   id="circle40"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="24.6"
+   cy="107.2"
+   r="5"
+   id="circle42"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+</g>
+<g
+   id="TopPlate"
+   style="stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   transform="translate(-3.5110236,-2.7110236)">
+	<path
+   class="st0"
+   d="M 4.6,435.5 V 333.3 c 0,-6.6 5.4,-12 12,-12 h 163.1 c 6.6,0 12,5.4 12,12 v 102.1 c 0,6.6 -5.4,12 -12,12 H 16.6 c -6.6,0.1 -12,-5.3 -12,-11.9 z"
+   id="path45"
+   style="fill:none;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   inkscape:connector-curvature="0" />
+	
+		<rect
+   x="91.900002"
+   y="319.70001"
+   transform="rotate(90,98.264,342.757)"
+   class="st0"
+   width="12.8"
+   height="46.099998"
+   id="rect47"
+   style="fill:none;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="171.10001"
+   cy="425.60001"
+   r="5"
+   id="circle49"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="171.10001"
+   cy="343.20001"
+   r="5"
+   id="circle51"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="25.4"
+   cy="343.20001"
+   r="5"
+   id="circle53"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	<circle
+   class="st5"
+   cx="25.4"
+   cy="425.60001"
+   r="5"
+   id="circle55"
+   style="fill:#ffffff;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	
+		<rect
+   x="6.5"
+   y="370.39999"
+   transform="rotate(90,37.7297,384.4042)"
+   class="st0"
+   width="62.400002"
+   height="28"
+   id="rect57"
+   style="fill:none;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+</g>
+<g
+   id="MiddlePanel1"
+   style="stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   transform="translate(-3.5110236,-2.7110236)">
+	<path
+   class="st0"
+   d="m 44.6,145.1 c 0,0.2 -0.1,1 -0.1,1.2 v 34.1 c 0,5 2.7,2.5 10,3.6 0,-10.4 0.1,-21.6 10,-17.8 6.2,2.3 12,-5.4 12,-12 v -8 c 0,-0.8 -0.1,-1.5 -0.2,-2.2 h 123.4 c -0.2,0.8 -0.2,1.6 -0.2,2.4 v 8 c 0,6.6 5.4,12 12,12 h 5.7 v 62.1 h -5.7 c -6.6,0 -12,5.4 -12,12 v 7 h -123 v -7 c 0,-6.6 -5.4,-12.2 -12,-12 -7.3,0.2 -10,-7.3 -10,-17.5 -3.7,0.6 -10,-1.1 -10,3.8 v 33.7 c 0,6.6 5.4,12 12,12 h 163.1 c 6.6,0 12,-5.4 12,-12 V 146.4 c 0,-6.6 -5.4,-12 -12,-12 H 56.5 c -6.2,0 -11.3,4.7 -11.9,10.7 z M 70,156.2 c 0,2.7 -2.2,5 -5,5 -2.7,0 -5,-2.2 -5,-5 0,-2.8 2.2,-5 5,-5 2.8,0 5,2.3 5,5 z m -9.9,82.5 c 0,-2.7 2.2,-5 5,-5 2.7,0 5,2.2 5,5 0,2.8 -2.2,5 -5,5 -2.8,-0.1 -5,-2.3 -5,-5 z m 155.6,0 c 0,2.7 -2.2,5 -5,5 -2.8,0 -5,-2.2 -5,-5 0,-2.8 2.2,-5 5,-5 2.8,0 5,2.2 5,5 z m 0,-82.5 c 0,2.7 -2.2,5 -5,5 -2.8,0 -5,-2.2 -5,-5 0,-2.8 2.2,-5 5,-5 2.8,0 5,2.3 5,5 z"
+   id="path60"
+   style="fill:none;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   inkscape:connector-curvature="0" />
+</g>
+<g
+   id="MiddlePanel2"
+   style="stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   transform="translate(-3.5110236,-2.7110236)">
+	<path
+   class="st0"
+   d="m 190.7,305.6 c 0,-0.2 0,-0.4 0,-0.6 0,-0.2 0,-0.4 0,-0.6 v -34.1 c 0,-5 -2.7,-2.5 -10,-3.6 0,10.4 -0.1,21.6 -10,17.8 -6.2,-2.3 -12,5.4 -12,12 v 8 c 0,0.8 0.1,1.5 0.2,2.2 H 35.5 c 0.2,-0.8 0.2,-1.6 0.2,-2.4 v -8 c 0,-6.6 -5.4,-12 -12,-12 H 18 v -62.1 h 5.7 c 6.6,0 12,-5.4 12,-12 v -7 h 123 v 7 c 0,6.6 5.4,12.2 12,12 7.3,-0.2 10,7.3 10,17.5 3.7,-0.6 10,1.1 10,-3.8 v -33.7 c 0,-6.6 -5.4,-12 -12,-12 h -163 c -6.6,0 -12,5.4 -12,12 v 102.1 c 0,6.6 5.4,12 12,12 h 163.1 c 6.2,0.1 11.3,-4.7 11.9,-10.7 z m -25.4,-11.1 c 0,-2.7 2.2,-5 5,-5 2.8,0 5,2.2 5,5 0,2.8 -2.2,5 -5,5 -2.8,0 -5,-2.2 -5,-5 z m 9.9,-82.4 c 0,2.7 -2.2,5 -5,5 -2.8,0 -5,-2.2 -5,-5 0,-2.8 2.2,-5 5,-5 2.8,0 5,2.2 5,5 z m -155.6,0 c 0,-2.7 2.2,-5 5,-5 2.8,0 5,2.2 5,5 0,2.8 -2.2,5 -5,5 -2.8,0 -5,-2.3 -5,-5 z m 0,82.4 c 0,-2.7 2.2,-5 5,-5 2.8,0 5,2.2 5,5 0,2.8 -2.2,5 -5,5 -2.8,0 -5,-2.2 -5,-5 z"
+   id="path63"
+   style="fill:none;stroke:#ff0000;stroke-width:1.51181102;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   inkscape:connector-curvature="0" />
+</g>
+</svg>
